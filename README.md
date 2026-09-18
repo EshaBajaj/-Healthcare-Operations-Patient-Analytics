@@ -172,14 +172,5 @@ WHERE PA.Id IN (SELECT PATIENT FROM active_patients);
    - Import CSV files into Microsoft SQL Server or PostgreSQL.
    - Execute queries from `Healthcare_Data_Analysis.sql`.
 3. **Tableau Visualizations:**
-   - Open Tableau Desktop and connect to `Healthcare Demo Data.csv` and `Hospital ER.csv` to explore interactive dashboards.
+   - Open Tableau Desktop and connect to `Healthcare Demo Data.csv` and `Hospital ER.csv` to explore interactive dashboards
 
----
-
-## 👤 Author
-
-**Esha Bajaj**  
-Healthcare Data & Business Analytics Specialist  
-Repository: [EshaBajaj/-Healthcare-Operations-Patient-Analytics](https://github.com/EshaBajaj/-Healthcare-Operations-Patient-Analytics.git)
-
-*Disclaimer: Synthea synthetic data was utilized for educational and analytical portfolio demonstration purposes.*
